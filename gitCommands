@@ -1,0 +1,8 @@
+
+GIT COMMANDS:
+git clone <clone url> -> pulls repositoy in using url
+git status -> whats different between us and git
+git add <name of file>/. -> to add any changes or files by name
+git commit -m "type message here" -> commited to machine NOY SYNCED
+git push -> will push to git
+git pull -> will pull from git
